@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm David</h1>
-<h3 align="center">>A Thrilled Software Developer Enthusiast</h3>
+<h1 align="center">Hi 🤖, I'm David</h1>
+<h3 align="center">A Thrilled Software Developer Enthusiast</h3>
 
 - 🔭 I’m currently working on **personal projects**
 
